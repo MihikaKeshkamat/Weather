@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "//github.io/Weather/static/css/main.c7443d33.css",
+    "main.js": "//github.io/Weather/static/js/main.75f5eccd.js",
+    "static/media/main_bg.PNG": "//github.io/Weather/static/media/main_bg.b204ff828620fdb44027.PNG",
+    "static/media/rainy_bg.PNG": "//github.io/Weather/static/media/rainy_bg.8acf1c258616a5207e5c.PNG",
+    "static/media/cold_bg.PNG": "//github.io/Weather/static/media/cold_bg.398e9029dab549ee49d3.PNG",
+    "static/media/warm_bg.PNG": "//github.io/Weather/static/media/warm_bg.fa687307244cce7bf893.PNG",
+    "index.html": "//github.io/Weather/index.html",
+    "main.c7443d33.css.map": "//github.io/Weather/static/css/main.c7443d33.css.map",
+    "main.75f5eccd.js.map": "//github.io/Weather/static/js/main.75f5eccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7443d33.css",
+    "static/js/main.75f5eccd.js"
+  ]
+}
